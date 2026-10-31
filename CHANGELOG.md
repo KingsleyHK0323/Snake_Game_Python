@@ -454,9 +454,9 @@ First public release.
 - **自定义许可协议**，附带署名要求（创作者：SpaceSquare、Claude Code；拥有者：
   SpaceSquare），并提供三种语言版本。
 
-[1.4.0]: https://github.com/SpaceSquare640/Snake_Game_Python/releases/tag/v1.4.0
-[1.3.0]: https://github.com/SpaceSquare640/Snake_Game_Python/releases/tag/v1.3.0
-[1.2.0]: https://github.com/SpaceSquare640/Snake_Game_Python/releases/tag/v1.2.0
-[1.1.1]: https://github.com/SpaceSquare640/Snake_Game_Python/releases/tag/v1.1.1
-[1.1.0]: https://github.com/SpaceSquare640/Snake_Game_Python/releases/tag/v1.1.0
-[1.0.0]: https://github.com/SpaceSquare640/Snake_Game_Python/releases/tag/v1.0.0
+[1.4.0]: https://github.com/KingsleyHK0323/Snake_Game_Python/releases/tag/v1.4.0
+[1.3.0]: https://github.com/KingsleyHK0323/Snake_Game_Python/releases/tag/v1.3.0
+[1.2.0]: https://github.com/KingsleyHK0323/Snake_Game_Python/releases/tag/v1.2.0
+[1.1.1]: https://github.com/KingsleyHK0323/Snake_Game_Python/releases/tag/v1.1.1
+[1.1.0]: https://github.com/KingsleyHK0323/Snake_Game_Python/releases/tag/v1.1.0
+[1.0.0]: https://github.com/KingsleyHK0323/Snake_Game_Python/releases/tag/v1.0.0
